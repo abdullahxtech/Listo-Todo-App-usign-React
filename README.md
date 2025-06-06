@@ -1,12 +1,52 @@
-# React + Vite
+# 📝 Listo - Your Personal ToDo Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Listo UI](https://github.com/abdullahxtech/Todo/blob/b8ef6f6d3a24956ffa7e9d62b51deb2d774185b0/src/assets/React%20Todo%20UI.png)
 
-Currently, two official plugins are available:
+**Listo** is a sleek and responsive **ToDo web app** built using **React + Vite** and styled with **Tailwind CSS**. It helps you manage your daily tasks efficiently, with data stored directly in your browser using local storage.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Add new tasks quickly
+- ✔️ Mark tasks as complete/incomplete using checkboxes
+- 👀 Toggle visibility of completed tasks
+- 📝 Edit or delete any task
+- 💾 Saves tasks in **local storage** (persists even after page reload)
+- 🎨 Clean, mobile-friendly UI built with **Tailwind CSS**
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- Browser Local Storage
+
+---
+
+## 📸 Screenshot
+
+![App Screenshot](https://github.com/abdullahxtech/Todo/blob/b8ef6f6d3a24956ffa7e9d62b51deb2d774185b0/src/assets/Todo%20React.png)
+
+---
+
+## 🧪 Getting Started (For Developers)
+
+### 🧾 Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v14 or higher recommended)
+- npm (comes with Node.js)
+
+---
+
+### 🚀 How to Run the Project Locally
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/abdullahxtech/listo.git
+cd listo
