@@ -1,6 +1,6 @@
 # 📝 Listo - Your Personal ToDo Manager
 
-![Listo UI](https://github.com/abdullahxtech/Todo/blob/b8ef6f6d3a24956ffa7e9d62b51deb2d774185b0/src/assets/React%20Todo%20UI.png)
+![Listo UI](https://github.com/abdullahxtech/Listo-Todo-App-usign-React/blob/8512116405a5d24ef69e400ab78f836b1c763c8d/src/assets/listo%20firsts%20screenshot.png)
 
 **Listo** is a sleek and responsive **ToDo web app** built using **React + Vite** and styled with **Tailwind CSS**. It helps you manage your daily tasks efficiently, with data stored directly in your browser using local storage.
 
@@ -28,7 +28,7 @@
 
 ## 📸 Screenshot
 
-![App Screenshot](https://github.com/abdullahxtech/Todo/blob/b8ef6f6d3a24956ffa7e9d62b51deb2d774185b0/src/assets/Todo%20React.png)
+![App Screenshot](https://github.com/abdullahxtech/Listo-Todo-App-usign-React/blob/8512116405a5d24ef69e400ab78f836b1c763c8d/src/assets/listo%20second%20screenshot.png)
 
 ---
 

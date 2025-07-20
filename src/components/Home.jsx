@@ -80,8 +80,8 @@ const Home = () => {
 
   return (
     <>
-      <main>
-        <div className="container bg-white mx-auto my-3 rounded-xl p-4 w-[95%] sm:w-[90%] lg:w-[85%] max-w-5xl shadow-xl shadow-gray-600">
+      <main className="min-h-screen">
+        <section className="container bg-white mx-auto my-3 rounded-xl p-4 w-[95%] sm:w-[90%] lg:w-[85%] max-w-5xl shadow-xl shadow-gray-600">
           {/* Title */}
           <h1 className="text-center text-[28px] sm:text-[32px] md:text-[35px] font-[cursive] font-bold text-purple-900">
             Listo - Add your task at one place
@@ -180,7 +180,7 @@ const Home = () => {
               ) : null
             )}
           </div>
-        </div>
+        </section>
       </main>
     </>
   );
